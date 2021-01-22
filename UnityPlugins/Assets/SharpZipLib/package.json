@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "SharpZipLib",
   "description": "This is an zip package",
-  "unity": "2020.1.14f1c1",
+  "unity": "2020.1.14f1",
   
   "author": {
     "name": "Yuan",
