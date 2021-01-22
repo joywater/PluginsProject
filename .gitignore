@@ -1,0 +1,9 @@
+UnityPlugins/Temp
+UnityPlugins/.vscode
+UnityPlugins/*.csproj
+UnityPlugins/*.sln
+UnityPlugins/Logs
+UnityPlugins/Library
+UnityPlugins/UserSettings
+UnityPlugins/.vs
+UnityPlugins/obj
