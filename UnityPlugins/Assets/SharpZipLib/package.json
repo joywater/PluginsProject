@@ -1,0 +1,13 @@
+{
+  "name": "com.joywater.sharpziplib",
+  "version": "1.0.0",
+  "displayName": "SharpZipLib",
+  "description": "This is an zip package",
+  "unity": "2022.3",
+
+  "author": {
+    "name": "Yuan",
+    "email": "yuanli_tech@163.com",
+    "url": "https://github.com/icsharpcode/SharpZipLib"
+  }
+}
