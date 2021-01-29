@@ -1,0 +1,13 @@
+{
+  "name": "com.joywater.odin",
+  "version": "1.0.0",
+  "displayName": "Odin",
+  "description": "This is an Odin package",
+  "unity": "2022.3",
+
+  "author": {
+    "name": "Yuan",
+    "email": "yuanli_tech@163.com",
+    "url": "https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041?aid=1101l8rRH&utm_source=aff"
+  }
+}
