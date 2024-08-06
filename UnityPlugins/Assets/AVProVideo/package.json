@@ -1,0 +1,13 @@
+{
+  "name": "com.joywater.avprovideo",
+  "version": "1.0.0",
+  "displayName": "AVProVideo",
+  "description": "This is an AVProVideo package",
+  "unity": "2022.3",
+
+  "author": {
+    "name": "Yuan",
+    "email": "yuanli_tech@163.com",
+    "url": ""
+  }
+}
